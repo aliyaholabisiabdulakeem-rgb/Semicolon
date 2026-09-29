@@ -1,0 +1,4 @@
+The four basic element of counter controlled iteration is the control variable is the variable or name that keeps how many times a loop will run, the initial value where the loops starts from, the increment by which the control variable is modified each time through the loop and the loop-continuation condition that determines whether loop should continue.
+contrast -> for statements are used for counter-controlled iteration and while statements for sentinel-controlled iteration. similarities -> they are both used to control flow of statement in programming to repeat a block of code.
+The do while loop because it will run the code before testing the condition.
+contrast -> The break statement, when executed causes immediate exit from that statement while the continue statement when executed skips the loop’s remaining body statements and proceeds with its next iteration. similarities -> they are both used to alter a sequential execution of loop.
