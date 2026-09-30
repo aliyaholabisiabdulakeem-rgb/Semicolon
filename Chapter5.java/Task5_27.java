@@ -7,5 +7,6 @@ System.out.println();
 }
 System.out.println();
 }
-
-// it prints 12 * per 5 line
+}
+}
+// it prints 4 * per 5 group
