@@ -1,0 +1,6 @@
+mport java.util.Scanner;
+public class Task33{
+public static void main(String[] args){
+    Scanner input = new Scanner(System.in);
+System.out.print("Enter first integer: ");
+    int number1 = input.nextInt();
